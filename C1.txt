@@ -1,3 +1,9 @@
+fnjednjx
+fsksdjxbfesjx
+ksadjsfuqa
+djabdjqbfjq
+wdbjqevfjwfcjw
+qds jbdjwuyvbduw
 fbjhfwus
 mndks
 fsnhbus
@@ -66,3 +72,4 @@ sefgwe14.1) Сделайте пуш комита в FRR и сделайте та
 21) Добавьте файл C1.txt в стейджинг(индекс)
 
 22) [сделать пулл реквест]
+
